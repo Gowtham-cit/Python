@@ -1,7 +1,7 @@
 def holiday(day):
     if ('Saturday' ==day or 'Sunday'== day):
-        print("Holiday")
+        print("yes")
     else:
-        print("No")
+        print("no")
 day=input()
 holiday(day)
