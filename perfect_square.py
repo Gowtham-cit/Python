@@ -7,9 +7,7 @@ def isPerfectSquare(x,y):
 
 
 
-
-x=int(input())
-y=int(input())
+x, y = map(int,input().split())
 if (isPerfectSquare(x,y)): 
 	print("yes") 
 else: 
