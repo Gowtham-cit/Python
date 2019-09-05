@@ -3,7 +3,7 @@ def iscomposite(n):
         return False
     if n<=3:
         return False
-    if n%2==0 or n%2==0:
+    if n%2==0 or n%3==0:
         return True
     i=5
     while(i*i<=n):
