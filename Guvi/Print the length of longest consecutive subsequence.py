@@ -1,3 +1,5 @@
+#Print the length of longest consecutive subsequence
+#solution
 n = int(input())
 l = [int(x) for x in input().split()]
 
