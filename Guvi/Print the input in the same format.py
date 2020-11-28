@@ -1,4 +1,5 @@
 """
+Print the input in the same format
 Write a code to get the input in the given format and print the output in the given format
 
 Input Description:
