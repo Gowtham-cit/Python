@@ -8,6 +8,4 @@ class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         num = list(set(nums))
         
-        if len(num) == len(nums):
-            return False
-        return True
+        return len(num) == len(nums)
