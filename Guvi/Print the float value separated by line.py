@@ -1,4 +1,5 @@
 """
+Print the float value separated by line
 Sample Input :
 2.3 4.5 7.8
 Sample Output :
