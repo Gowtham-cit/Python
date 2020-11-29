@@ -12,7 +12,7 @@ class MyStack:
     def push(self, x: int) -> None:
         
         self.x = x
-        self.stack.append(self.x) #adding an element using uppend
+        self.stack.append(self.x) #adding an element using append
 
     def pop(self) -> int:
         
