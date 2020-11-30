@@ -1,3 +1,18 @@
+#pyramid pattern
+"""
+Example
+5
+1 
+
+1 1 1 
+
+1 1 1 1 1 
+
+1 1 1 1 1 1 1 
+
+1 1 1 1 1 1 1 1 1 
+"""
+#solution
 n=int(input())
 k=1
 for i in range(0,n):
