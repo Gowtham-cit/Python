@@ -1,10 +1,10 @@
-s=input()
-lst=[]
+s = input()
+lst = []
 for i in s:
-    if s.count(i)==1:
+    if s.count(i) == 1:
         lst.append(i)
 for j in lst:
-    print(j,end="")
+    print(j, end="")
         
 
         
