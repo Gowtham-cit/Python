@@ -1,5 +1,5 @@
 def bit_not(n):
-    n=~n
+    n = ~n
     print(n)
-n=int(input())
+n = int(input())
 bit_not(n)
