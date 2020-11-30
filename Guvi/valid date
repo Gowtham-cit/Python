@@ -1,0 +1,11 @@
+s = input()
+d = s[0:2]
+d = int(d)
+m = s[3:5]
+m = int(m)
+y = s[6:]
+y = int(y)
+if d <= 31 and d >= 1 and m > 0 and m < 13 :
+    print("yes")
+else:
+    print("no")
