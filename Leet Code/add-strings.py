@@ -15,7 +15,7 @@ class Solution:
                 
                 result1 += digit > d
         
-        for digit in num:
+        for digit in num2:
             
             result2 *= 10
             
