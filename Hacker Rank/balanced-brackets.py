@@ -1,5 +1,6 @@
 """
 https://www.hackerrank.com/challenges/balanced-brackets/problem
+For each string, return YES or NO
 """
 #solution
 #!/bin/python3
