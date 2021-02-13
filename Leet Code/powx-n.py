@@ -1,5 +1,7 @@
 """
 https://leetcode.com/problems/powx-n/
+
+calculate the power
 """
 #solution
 class Solution:
