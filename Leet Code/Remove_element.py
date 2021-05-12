@@ -6,7 +6,7 @@ https://leetcode.com/problems/remove-element/
 nums = [int(x) for x in input().split()]
 value = int(input())
 
-while(value in nums):
+while value in nums:
   del nums[nums.index(value)]
 print(len(nums))
 
